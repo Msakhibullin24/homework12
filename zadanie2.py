@@ -1,4 +1,5 @@
 import numpy as np
+
 mean = 0  # математическое ожидание
 variance = 5  # дисперсия
 std_dev = np.sqrt(variance)  # стандартное отклонение
